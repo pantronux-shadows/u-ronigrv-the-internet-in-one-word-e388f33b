@@ -1,3 +1,7 @@
+[![make.fun · u-ronigrv-the-internet-in-one-word-e388f33b](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
+[![rank](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/pantronux-shadows/u-ronigrv-the-internet-in-one-word-e388f33b/rank.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b/leaderboard)
+[![reward](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/pantronux-shadows/u-ronigrv-the-internet-in-one-word-e388f33b/reward.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
+
 # The Internet in One Word — `unsupervised`
 
 This repository is an entry to [make.fun](https://make.fun)'s competition
